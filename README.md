@@ -74,3 +74,7 @@ https://<GitHub아이디>.github.io/<저장소이름>/
 ```text
 https://<GitHub아이디>.github.io/
 ```
+
+## Deployment trigger
+
+Latest deployment trigger: 2026-05-26 KST.
